@@ -1,12 +1,17 @@
-Here's a comprehensive README file that outlines how to set up and run both the frontend (React) and backend (Spring Boot) of your project.
 
----
 
-# Project Title
+# Social Media DashBoard
 
-## Description
+# OutPut Image (With Demo Data at Backend)
 
-A brief description of your project.
+![Screenshot from 2024-07-17 08-42-54](https://github.com/user-attachments/assets/a2bcad6a-97b2-412a-b259-0569a0626cb8)
+![Screenshot from 2024-07-17 08-41-37](https://github.com/user-attachments/assets/345e4551-6d5b-4787-91e0-a39f7ea209a5)
+
+
+![ksnip_20240717-090337](https://github.com/user-attachments/assets/c1be59f8-1089-4a0f-b37e-563b9283b8c7)
+![ksnip_20240717-090312](https://github.com/user-attachments/assets/584d3dd6-354b-4472-a708-cd310e09d661)
+![ksnip_20240717-090233](https://github.com/user-attachments/assets/8ad6418a-a884-43db-94a3-0f0cc2ee0d01)
+
 
 ## Prerequisites
 
@@ -24,7 +29,7 @@ A brief description of your project.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone gttps://github.com/yash777u/Assignment.git
 cd your-repo-name
 ```
 
